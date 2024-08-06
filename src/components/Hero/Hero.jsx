@@ -11,11 +11,15 @@ export const Hero = () => {
         <p className={styles.description}>
         I am a Full-stack web developer with a certificate in full-stack web development from Columbia Engineering.
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+        <a href="mailto:jaysonnunez3@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
-      
+      <img
+        src={getImageUrl("hero/heroImage.png")}
+        alt="Hero image of me"
+        className={styles.heroImg}
+      />
 
       <div className={styles.topBlur} />
       <div className={styles.bottomBlur} />

@@ -1,19 +1,19 @@
 [
   {
-    "title": "Project A",
+    "title": "Active Eats!",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "The goal of this application is to provide users with a comprehensive list of exercises targeting every major muscle group.",
+    "skills": ["Javascript", "HTML", "API"],
+    "demo": "https://jaysonnunez1.github.io/active-eats/",
+    "source": "https://github.com/JaysonNunez1/active-eats"
   },
   {
-    "title": "Project B",
+    "title": "Weather App",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "With a user friendly interace users will be able to search for any city and be presented with the current and future weather conditions for that city.",
+    "skills": ["Bootstrap", "jquery", "API"],
+    "demo": "https://jaysonnunez1.github.io/Jaysons-Weather-Dashboard-1/",
+    "source": "https://github.com/JaysonNunez1/Jaysons-Weather-Dashboard-1"
   },
   {
     "title": "Project C",
