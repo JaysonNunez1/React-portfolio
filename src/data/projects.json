@@ -1,7 +1,7 @@
 [
   {
     "title": "Active Eats!",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/screenshot1 (2).png",
     "description": "The goal of this application is to provide users with a comprehensive list of exercises targeting every major muscle group.",
     "skills": ["Javascript", "HTML", "API"],
     "demo": "https://jaysonnunez1.github.io/active-eats/",
@@ -16,11 +16,11 @@
     "source": "https://github.com/JaysonNunez1/Jaysons-Weather-Dashboard-1"
   },
   {
-    "title": "Project C",
+    "title": "Note Taker",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "This Note taking application  can make the lives of those who are really busy really easy.Its easy-to-use features help users stay on track.",
+    "skills": ["Javascript", "Express.js", "Node"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/JaysonNunez1/Jayson-s-Note-Taker"
   }
 ]
