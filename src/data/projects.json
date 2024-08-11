@@ -9,18 +9,18 @@
   },
   {
     "title": "Weather App",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/screenshot 2 (2).png",
     "description": "With a user friendly interace users will be able to search for any city and be presented with the current and future weather conditions for that city.",
     "skills": ["Bootstrap", "jquery", "API"],
     "demo": "https://jaysonnunez1.github.io/Jaysons-Weather-Dashboard-1/",
     "source": "https://github.com/JaysonNunez1/Jaysons-Weather-Dashboard-1"
   },
   {
-    "title": "Note Taker",
-    "imageSrc": "projects/project.png",
-    "description": "This Note taking application  can make the lives of those who are really busy really easy.Its easy-to-use features help users stay on track.",
-    "skills": ["Javascript", "Express.js", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://github.com/JaysonNunez1/Jayson-s-Note-Taker"
+    "title": "Password Generator",
+    "imageSrc": "projects/screenshot 3.png",
+    "description": "This application enables users to generate random passwords based on criteria that they’ve picked. This app has dynamically updated HTML and CSS powered by JavaScript.",
+    "skills": ["Javascript", "Css", "HTML"],
+    "demo": "https://jaysonnunez1.github.io/Jaysons-Password-Generator/",
+    "source": "https://github.com/JaysonNunez1/Jaysons-Password-Generator"
   }
 ]
