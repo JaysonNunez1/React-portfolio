@@ -8,6 +8,13 @@
   box-shadow: 0 16px 14px 0 #b54848;
   padding: 18px 24px;
   max-width: 345px;
+  gap:20px;
+}
+
+.container:hover {
+  transform: translateY(-20px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
 }
 
 .image {
