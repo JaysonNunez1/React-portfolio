@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist -f --repo https://github.com/JaysonNunez1/React-portfolio",
+    "deploy": "gh-pages -d dist",
     "build": "vite build --outDir dist",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
