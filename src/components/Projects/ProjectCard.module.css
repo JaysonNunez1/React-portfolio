@@ -7,8 +7,8 @@
   background-color: var(--color-secondary);
   box-shadow: 0 16px 14px 0 #b54848;
   padding: 18px 24px;
-  max-width: 345px;
-  gap:20px;
+  max-width: 365px;
+  gap: 23px;
 }
 
 .container:hover {
@@ -65,4 +65,64 @@
   border-radius: 100px;
   background: var(--color-primary);
   padding: 1px 22px;
+}
+
+/* Media queries for mobile responsiveness */
+
+
+@media (max-width: 768px) {
+  .container {
+    max-width: 300px;
+    padding: 12px 18px;
+  }
+  .image {
+    margin-bottom: 18px;
+  }
+  .title {
+    font-size: 20px;
+  }
+  .description {
+    font-size: 20px;
+  }
+  .skills {
+    margin-top: 10px;
+  }
+  .skill {
+    font-size: 20px;
+  }
+  .links {
+    margin-top: 18px;
+  }
+  .link {
+    font-size: 24px;
+  }
+}
+
+
+@media (max-width: 480px) {
+  .container {
+    max-width: 250px; 
+    padding: 10px 14px; 
+  }
+  .image {
+    margin-bottom: 12px; 
+  }
+  .title {
+    font-size: 18px;
+  }
+  .description {
+    font-size: 18px;
+  }
+  .skills {
+    margin-top: 8px;
+  }
+  .skill {
+    font-size: 18px;
+  }
+  .links {
+    margin-top: 12px;
+  }
+  .link {
+    font-size: 20px; 
+  }
 }
