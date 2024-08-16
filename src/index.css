@@ -1,26 +1,29 @@
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-  font-family: "Outfit", Arial, Helvetica, sans-serif;
+@media only screen and (min-width: 428px) and  (max-width: 428px) {
+
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "Outfit", Arial, Helvetica, sans-serif;
+  }
 }
 
 html {
   scroll-behavior: smooth;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (min-width:414px) and (max-width: 414px) {
   body {
-    font-size: 16px;
+    font-size: 14px;
   }
 
   .container {
-    width: 90%; 
-    margin: 2em auto; 
+    width: 95%; 
+    margin: 1.5em auto; 
   }
 }
 
-@media only screen and (min-width: 769px) and (max-width: 1024px) {
+@media only screen and (min-width: 375px) and (max-width: 375px) {
   
 }
 
