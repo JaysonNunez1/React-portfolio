@@ -1,4 +1,10 @@
 @import "../../vars.css";
+@import url('https://fonts.googleapis.com/css2?family=GreyQo&display=swap');
+
+
+:root {
+  --font-grey-qo: 'GreyQo', sans-serif;
+}
 
 .container {
   position: relative;
@@ -20,10 +26,10 @@
 }
 
 .title {
-  font-size: 95px;
+  font-size: 70px;
   font-weight: 900;
   margin-bottom: 33px;
-  font-family: var(--font-roboto);
+  font-Family:'GreyQo', sans-serif !important;
   background: linear-gradient(
     90deg,
     rgba(255, 255, 255, 1) 70%,
@@ -37,7 +43,7 @@
 
 .description {
   font-size: 30px;
-  font-family: var(--font-roboto);
+  font-family: var(--font-grey-qo);
   margin-bottom: 52px;
 }
 
@@ -53,7 +59,7 @@
 }
 
 .heroImg {
-  width: 32%;
+  width: 28%;
   z-index: 1;
 }
 
