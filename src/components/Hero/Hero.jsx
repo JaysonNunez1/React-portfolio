@@ -10,8 +10,7 @@ export const Hero = () => {
         <h1 className={styles.title} style= {{ fontFamily: "GreyQo"}} >Hi, I'm Jayson</h1>
         <p className={styles.description}
         >
-        Full-stack web developer with a certificate in full-stack web development from Columbia Engineering.
-        I have proven skills in collaboration, organization, and both independent and team-based work.
+     Full-stack web developer with a certificate in Full-Stack Web Development from Columbia Engineering. I have a robust skill set in both front-end and back-end technologies, including React, Node.js, and MongoDB. My expertise extends to designing intuitive user interfaces, developing scalable server-side applications, and integrating APIs.
         </p>
         <a href="mailto:jaysonnunez3@gmail.com" className={styles.contactBtn}>
           Contact Me
